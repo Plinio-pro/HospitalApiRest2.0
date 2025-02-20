@@ -1,6 +1,5 @@
 package ec.webmarket.restful.domain;
 
-import java.time.LocalDate;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
